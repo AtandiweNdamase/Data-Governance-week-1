@@ -1,5 +1,5 @@
 # Data-Governance-week-1
-Data Governance - its a framework that is used to proactivily manage your data and managing the quality of your data to help the orgainiation focusing on increasing the value of data and reduces the risk behind.
+Data Governance - its a framework that is used to proactivily manage your data and managing the quality of your data to help the organisation focusing on increasing the value of data and reduces the risk behind.
 Advantages of good data governance:
 - improved data
 - extented data value
@@ -93,3 +93,60 @@ Zettabyte
  Usage:  Hopefully you’re capturing and storing data because you want to use it. Maybe not immediately, but at some point, perhaps for analysis. Data may need to be processed to be useful. That could include cleansing it of errors, transforming it to another format, and securing access rights.
  Archival:  In this stage, you identify data that is not currently being used and move it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized.
  Destruction:  Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive.
+ Operations use data to make decisions, enable systems to run, and deliver data to internal and external entities. For example, a regional sales team will deliver their monthly results to headquarters to be presented to vice presidents or the C-suite.
+ Decision making - While there’s little surprise that data-driven decision-making is a fundamental business competency, it all hinges on decision-makers getting access to quality data at the right time. Abundant and out-of-date data are not synonymous with data value. Bad data may be worse than no data. Bad data processed into information and then used as the basis for decisions will result in failure. The outcome of decisions based on bad data could range from a minor mistake to job termination right up to the closing of the business.
+
+Measuring -Data measurements can be quantitative or qualitative. Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language.
+Monitoring - Involved in monitoring is the data produced by the thing being evaluated. It’s also the data that is produced as a product of monitoring. For example, the deviation from the expected result.
+Insight measurement - It’s not enough to simply collect lots of data and expect that insight will suddenly emerge. There must be an attendant management process. Thus, insight management means ensuring that data and information are capable of delivering insight.For an insight to be most valuable, it must be the right information, at the right time, in the right format, for the right people. But this in general is no simple task.
+reporting - Reports are typically online or physical presentations of data and information on some aspect of an organization. For example, a written and printed report may show all the sales of a particular product or service during a specific period. Sometimes a report is given verbally in person or via a live or recorded video. Whatever the format — and that’s less important today as long as it achieves its objective — a report is developed for a particular audience with a specific purpose.
+Roles of data 
+- Operations
+- Decision making - define objectives, identify the data,prepare data,  analyze the data , determine the findings.
+- Measuring
+- Monitoring
+- Insight measurement
+- Reporting
+- AI
+  Collecting data and looking for insights is called Data Analysis
+  Data is an intangible asset, Data analysis _ process of examining data in order to produce answers or find conclusions is called data analytics.
+  basic proces  of Data analysis -Data mining ,  Cleaning data, statistical analysis, Data presentation
+  4 types of Data analysis
+  Descriptive - xisting data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business 
+  objectives. It is insight on past performance.
+  Diagnostic Data -   As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+  Predictive:  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+  Prescriptive:  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
+  To fully realize the potential of data in your organization means that data must be governed. Any time an organizational resource or asset is left unmanaged, it’s either a recipe for disaster or a missed opportunity. Even a small amount of governance beats no governance every single day.
+  3 concepts of managing data
+  - peopele
+  - policies
+  - metrics
+ As organizations grow and more systems are employed, eventually no single person knows what data is available and where it is in the enterprise. Without this knowledge, the ability to properly govern your data and leverage its value is greatly hampered. Without deliberate actions, data democratization becomes elusive.
+Knowing what data is available is essential for the following reasons:
+
+Better informed decision-making.
+Ensuring compliance and regulatory requirements.
+Lower costs by avoiding duplicate system and data efforts.
+Improved data analytics and reporting.
+Higher performing systems.
+More efficient operations.
+Reducing data inconsistencies across the enterprise.
+
+Data catalogs:
+-finding data
+-understanding data
+-making data more useful.
+Data catalogs can contain 3 metadatas
+- Technical metadata - data formats
+- Business metadata - business description
+- Operational metadata - when was data accesed and who assessed it.
+  Data analysis:
+ First-party data:  Data that an organization collects.
+Second-party data:  Data that is obtained from another organization.
+Third-party data:  Aggregated data obtained from a provider.
+Data Valuation
+-Cost Value Method
+-market value approach
+-economic value appraoch
+- with and without method
